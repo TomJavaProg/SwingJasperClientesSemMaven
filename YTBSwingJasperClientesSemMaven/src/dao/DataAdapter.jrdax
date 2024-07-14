@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<jdbcDataAdapter class="net.sf.jasperreports.data.jdbc.JdbcDataAdapterImpl">
+  <name>Data Adapter</name>
+  <driver>org.sqlite.JDBC</driver>
+  <username></username>
+  <password></password>
+  <url>jdbc:sqlite:/home/tomaz/eclipse-workspace/YTBSwingJasperClientes/resources/clientes.db</url>
+  <database></database>
+  <savePassword>true</savePassword>
+  <serverAddress></serverAddress>
+</jdbcDataAdapter>
